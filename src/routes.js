@@ -46,13 +46,6 @@ const routes = [
     layout: '/v2/dashboard',
   },
   {
-    path: '/api-info',
-    name: 'API info',
-    icon: 'nc-icon nc-sound-wave',
-    component: APIInfo,
-    layout: '/v2/dashboard',
-  },
-  {
     path: '/variants-search',
     name: 'Variants Search',
     icon: 'nc-icon nc-zoom-split',
