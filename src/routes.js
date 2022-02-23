@@ -107,7 +107,7 @@ const routes = [
     name: 'API info',
     icon: 'nc-icon nc-sound-wave',
     component: APIInfo,
-    layout: '/v2/dashboard',
+    layout: '',
   },
   {
     path: '/help',
