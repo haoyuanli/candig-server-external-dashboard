@@ -3,7 +3,7 @@
  */
 
 // API URL where the Dashboard get all the data
-export const BASE_URL = process.env.REACT_APP_CANDIG_SERVER_DASHBOARD_BASE_URL;
+export const BASE_URL = 'https://app05.herokuapp.com';
 
 export const CLIN_METADATA = [
   'patients',

@@ -61,9 +61,9 @@ function Help() {
           <Card className="m-3">
             <CardBody>
               <h5 className="card-title">FAQ</h5>
-              <h6 className="card-subtitle mb-2 text-muted">Why do some charts not load?</h6>
+              <h6 className="card-subtitle mb-2 text-muted">This is a demo with limited-features.</h6>
               <p className="card-text">
-                Some of the datasets do not have data for certain fields, and corresponding charts will not load.
+                Our apologies, but this demo is of limited feature, and some functionalities will not work.
               </p>
               <h6 className="card-subtitle mb-2 text-muted">How do I view different datasets?</h6>
               <p className="card-text">
