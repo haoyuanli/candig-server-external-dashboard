@@ -6,6 +6,8 @@
 export const BASE_URL = 'https://app05.herokuapp.com';
 
 export const CLIN_METADATA = [
+  'patients',
+  'samples',
   'celltransplants',
   'chemotherapies',
   'complications',
@@ -15,15 +17,15 @@ export const CLIN_METADATA = [
   'immunotherapies',
   'labtests',
   'outcomes',
-  'patients',
   'radiotherapies',
-  'samples',
   'slides',
   'studies',
   'surgeries',
   'treatments',
   'tumourboards',
 ];
+
+export const genomicsFileTypes = ['variantSets', 'readGroupSets', 'referenceSets', 'featureSets'];
 
 // Highcharts Map requires a specific set of codes for provinces
 // and territories, as represented by hcProvCodes below.
